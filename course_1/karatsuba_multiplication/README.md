@@ -4,9 +4,9 @@
 
 ## Contents
 
-* [Lecture]()
-* [Java Solution]()
-* [How To Run]()
+* [Lecture](#lecture)
+* [Java Solution](#java-solution)
+* [How To Run](#how-to-run)
 
 ## Lecture
 
